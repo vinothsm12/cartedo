@@ -1,6 +1,6 @@
 import AppRoutes from "./routes";
 import "./App.css";
-import Layout from "./components/layout";
+import Layout from "./components/Layout";
 import NavBar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 import { EnrollmentProvider } from "./context/EnrollmentContext";
